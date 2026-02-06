@@ -26,4 +26,4 @@ python fake_news_lstm.py
 
 "Aliens take over the Eiffel Tower."
 ❌ FAKE
-Made with 💖 by Logina Mahmoud
+Made  by Logina Mahmoud 
